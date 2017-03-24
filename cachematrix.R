@@ -3,7 +3,7 @@
 
 ## The makeCacheMatrix function is a list of functions that store a matrix getMatrix, calculates
 ## it's inverse getInv, store the inverse setInv. The setMatrix function allows to input a different
-## matris
+## matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   inv<-NULL
